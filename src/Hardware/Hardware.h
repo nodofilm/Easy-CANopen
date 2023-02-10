@@ -15,7 +15,7 @@
 #define	PIC 3
 #define	AVR 4
 #define	QT_USB 5
-#define PROCESSOR_CHOICE INTERNAL
+#define PROCESSOR_CHOICE ARDUINO
 
 /* What type of bit length is your CAN message */
 #define STANDARD 0
